@@ -1,3 +1,4 @@
 - [[Deploy on Demand]]
+- [[Monitoring]]
 - [[Retrospective]]
 - [[Limit WIP]]
