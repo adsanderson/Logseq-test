@@ -1,0 +1,6 @@
+- Probably most influential on my thinking
+- TDD
+- 3X
+- Incentives for Geeks
+- TRC (Test revert commit)
+- Systems Thinking

@@ -1,0 +1,1 @@
+- [[Kent Beck]] incentives for geeks
