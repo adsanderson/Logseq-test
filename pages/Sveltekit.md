@@ -1,1 +1,6 @@
 - Sveltekit 
+- File based router is good
+- I really like the API endpoints
+  - mix with [[cloudflare workers]]
+- The testing story doesn't feel great at the moment. 
+- The testing levels seem clearer as you have the library code and the route code
