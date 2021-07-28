@@ -1,4 +1,4 @@
 - lambda style functions
 - At the edge of the network where the files are served up
 - Uses the service worker API
-- Client :point_right: Service Worker :point_right: Cloudflare Worker :point_right: API
+- Client :point_right: [[Service Worker]] :point_right: Cloudflare Worker :point_right: API
