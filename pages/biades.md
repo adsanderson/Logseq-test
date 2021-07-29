@@ -1,0 +1,3 @@
+- survivor bias
+  - ![Image](./image_picker9170614623093697635.jpg)
+- Texas sharpshooter bias
