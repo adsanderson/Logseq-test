@@ -1,0 +1,8 @@
+- Agile framework
+- Can lead to mini [[Waterfall]]
+- Similar to [[Spiral method development]]
+- Ceremonies
+	- [[Daily Standup]]
+	- Refinement
+	- Review
+	- [[Retrospective]]
