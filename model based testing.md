@@ -1,2 +1,3 @@
 - Interesting idea
 - create a model -> generate a graph -> walk all the paths through the graph
+- Use model based testing for [[WCAG compliant components]]
