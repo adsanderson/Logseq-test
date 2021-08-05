@@ -1,0 +1,7 @@
+- Is led
+	- Round the room
+		- Everyone is included can lead to zombie scrum
+	- [[Story]]/Task orientated
+- Need a team focus/Sprint goal
+- Identify impediments/blockers
+- Better use of tasks vs stories
