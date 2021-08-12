@@ -7,4 +7,4 @@ Then the ability to traverse between these states is very valuable.
 
 So outside MBT it is really useful having the actions for traversing the graph.
 
-This is know as 
+- not sure how this relates to action based testing, action word based testing and keyword based testing
