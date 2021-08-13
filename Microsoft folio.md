@@ -1,2 +1,4 @@
 - https://github.com/microsoft/folio
 - Interesting approach, powered by playwright. Uses Nest's assert library.
+- Use fixtures to generate a test framework from an environment. 
+- I've not seen this approach before.
