@@ -1,2 +1,0 @@
-- https://github.com/microsoft/folio
-- Interesting idea. Powered by playwright and uses Jest's assert library.
