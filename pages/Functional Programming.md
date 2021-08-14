@@ -1,0 +1,5 @@
+- compose
+- chain
+- [[functor]] is a box?
+ - analogy falls over later
+- [[monad]]

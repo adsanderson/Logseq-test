@@ -1,0 +1,5 @@
+- Is it another name for trunk based development
+- It is not branch based development
+- Tools for CD
+  - Branch by abstraction
+  - [[feature flags]]
