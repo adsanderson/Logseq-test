@@ -1,5 +1,0 @@
-- Client-side
-  - Error monitoring: Catching errors that are thrown in the client-side code 
-  - RUM: Log events to show how the user is interacting with the application. This is how you confirm the hypothesis for an MVP
-- Server-side
-- Identify the metrics you want to measure and have the decision on what to do made before the metrics are measured and then decide on how to proceed based on the metrics.

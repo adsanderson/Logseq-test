@@ -1,4 +1,0 @@
-- Something like this tabs https://www.w3.org/TR/wai-aria-practices-1.1/examples/tabs/tabs-2/tabs.html has fixed behaviour
-- A list of keyboard events
-- A description of the expected behaviour
-- This could be created as a statechart that a [[model based testing]] could be generated from?

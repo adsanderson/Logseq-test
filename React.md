@@ -1,3 +1,0 @@
-- VDOM based
-- curse of React
-  - 

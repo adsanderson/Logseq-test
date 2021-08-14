@@ -1,3 +1,0 @@
-- is chainable
-- chain is the same as flatmap
-- unpacks nested values and packs the value back into same type
