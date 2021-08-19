@@ -1,5 +1,0 @@
-- VDOM based
-- curse of React
-	- {{youtube orq9XnHGTgQ}}
-	- It is easy to create basic components
--
