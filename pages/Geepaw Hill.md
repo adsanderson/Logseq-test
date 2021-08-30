@@ -1,0 +1,5 @@
+- [About Geepaw Hill](https://www.geepawhill.org/about/)
+- Talks about
+	- Change Harvesting
+	- TDD
+	- The dangers of Rework Avoidance Theory (RAT)
