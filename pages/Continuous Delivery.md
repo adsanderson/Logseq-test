@@ -1,5 +1,7 @@
 - Is it another name for trunk based development
 - It is not branch based development
+- Separate
 - Tools for CD
-  - Branch by abstraction
-  - [[feature flags]]
+	- Dark Launch
+	- Branch by abstraction
+	- [[feature flags]]
