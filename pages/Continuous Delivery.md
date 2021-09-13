@@ -1,6 +1,6 @@
 - Is it another name for trunk based development
 - It is not branch based development
-- Separate
+- Separate deployment from release
 - Tools for CD
 	- Dark Launch
 	- Branch by abstraction
