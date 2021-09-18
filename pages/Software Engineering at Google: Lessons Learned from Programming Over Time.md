@@ -1,0 +1,6 @@
+- Software Engineering at Google: Lessons Learned from Programming Over Time notes
+- Life time of the project
+- Programming Vs software engineering
+- clever is an accusation in software engineering
+- sustainablity
+- 

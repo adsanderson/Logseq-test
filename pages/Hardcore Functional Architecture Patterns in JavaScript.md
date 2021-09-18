@@ -1,3 +1,7 @@
+---
+modified: 2021-09-18T22:43:48+01:00
+---
+
 - By Brian Lonsdorf
   Salesforce
   https://github.com/FrontendMasters/hardcore-functional-architecture/
@@ -24,3 +28,6 @@
   
   console.log(res.run({ port: 3123 }))
 - ```
+
+- monad transformers are useful but there are probably better tools to use
+  - you have to unpack and then lift the values back into the nested shape of the transformer
